@@ -1,0 +1,4 @@
+qiskit==0.19.2
+ipykernel==5.1.4
+jupyterlab==2.0.1
+seaborn==0.10.1
